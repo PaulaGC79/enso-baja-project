@@ -4,7 +4,7 @@ Este repositorio es el punto de partida para el proyecto final del minicurso
 **Introducción a herramientas computacionales para Oceanografía Física**.
 
 <!--
-Reemplaza el título de arriba por un título que describa tu propio proyecto.
+ENSO-BAJA
 -->
 
 ## Pregunta
